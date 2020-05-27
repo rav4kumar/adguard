@@ -1,0 +1,5 @@
+||hulu.com^
+||netflix.com^
+||disneyplus.com^
+||amazonvideo.com^
+||hbo.com^
