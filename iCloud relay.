@@ -1,0 +1,6 @@
+||mask.icloud.com^$dnsrewrite=NXDOMAIN;;
+||mask-h2.icloud.com^$dnsrewrite=NXDOMAIN;;
+||mask-api.icloud.com^$dnsrewrite=NXDOMAIN;;
+||mask-t.apple-dns.net^$dnsrewrite=NXDOMAIN;;
+||mask.apple-dns.net^$dnsrewrite=NXDOMAIN;;
+||mask-api.fe.apple-dns.net^$dnsrewrite=NXDOMAIN;;
